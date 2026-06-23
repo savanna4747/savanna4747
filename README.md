@@ -12,6 +12,7 @@
 ## Projects
 
 ### Multimodal RAG Skincare Recommendation System
+https://skincare-recommendation-system-tys3sc3nghy9ybioypataf.streamlit.app/
 - Built a multi-agent AI system leveraging Gemini API, ChromaDB, and Streamlit to generate personalized skincare routines
 - Supports multimodal text and facial-image analysis
 - Detects ingredient conflicts and allergen risks across 2,418 indexed skincare products
