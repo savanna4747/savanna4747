@@ -12,10 +12,10 @@
 ## Projects
 
 ### Multimodal RAG Skincare Recommendation System
-- Multi-agent AI pipeline using Gemini API, ChromaDB, and Streamlit
-- Supports text and image-based skincare analysis
-- Allergy-aware and ingredient-conflict detection
-- Evaluated on 100 test scenarios
+- Built a multi-agent AI system leveraging Gemini API, ChromaDB, and Streamlit to generate personalized skincare routines
+- Supports multimodal text and facial-image analysis
+- Detects ingredient conflicts and allergen risks across 2,418 indexed skincare products
+- Evaluated on 100 test scenarios, achieving 99% allergy detection accuracy and 100% recall on true ingredient conflicts
 
 
 ## Technical Skills
