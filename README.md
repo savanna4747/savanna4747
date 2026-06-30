@@ -2,7 +2,7 @@
 
 🎓 B.A. in Data Science, New York University (May 2026)
 
-🤖 Interested in AI, Machine Learning, and Data Analytics
+🤖 Interested in AI, Data Analytics, and Machine Learning
 
 🏥 Former Healthcare Informatics Intern @ Siemens Healthineers
 
