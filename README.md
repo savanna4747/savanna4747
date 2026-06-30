@@ -27,6 +27,6 @@ https://skincare-recommendation-system-tys3sc3nghy9ybioypataf.streamlit.app/
 
 **Machine Learning & AI:** scikit-learn, ChromaDB, Gemini API, Retrieval-Augmented Generation (RAG), AI Agents, LLM Integration
 
-**Tools:** Git, GitHub, Linux/Bash Jupyter Notebook, Google Colab
+**Tools:** Git, GitHub, MS SQL, Linux/Bash Jupyter Notebook, Google Colab
 
 
