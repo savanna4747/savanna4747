@@ -23,10 +23,9 @@ https://skincare-recommendation-system-tys3sc3nghy9ybioypataf.streamlit.app/
 
 **Languages:** Python, SQL, Java, R
 
-**Data Analysis & Visualization:** pandas, NumPy, Matplotlib, Power BI, DAX, Streamlit, Excel
+**Data Analysis & Visualization:** pandas, NumPy, Matplotlib, Power BI, DAX, Excel
 
 **Machine Learning & AI:** scikit-learn, ChromaDB, Gemini API, Retrieval-Augmented Generation (RAG), AI Agents, LLM Integration
 
-**Tools:** Git, GitHub, MS SQL, Jupyter Notebook, Claude Code, Google Colab
-
+**Tools:** Git, GitHub, Microsoft SQL Server, Streamlit, Claude Code, Jupyter Notebook, Google Colab
 
