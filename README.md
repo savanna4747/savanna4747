@@ -1,4 +1,4 @@
-## Hi, I'm Savanna 👋
+## Welcome to Savanna's Repo 👋
 
 🎓 B.A. in Data Science, New York University (May 2026)
 
