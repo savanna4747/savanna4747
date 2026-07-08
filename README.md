@@ -1,6 +1,6 @@
 ## Welcome to Savanna's Repo 👋
 
-🎓 B.A. in Data Science, New York University (May 2026)
+🎓 B.A. in Data Science, Minor in Politics, New York University (May 2026)
 
 🤖 Interested in AI, Data Analytics, and Machine Learning
 
